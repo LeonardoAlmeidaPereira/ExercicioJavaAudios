@@ -4,21 +4,97 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5797495a-11d2-4127-843d-61cf66a3ae61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Perfil/Perfil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Perfil/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Perfil/Subtração.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minhasmusicas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelos/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelos/MinhasPreferidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelos/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelos/Podcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/Principal.java" afterDir="false" />
+    <list default="true" id="5797495a-11d2-4127-843d-61cf66a3ae61" name="Changes" comment="Exercitando polimorfismo e herança">
+      <change afterPath="$PROJECT_DIR$/../../3386-git-github-projeto_inicial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/css/_reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/img/fade_bar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/img/hachuras.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/img/monopoly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/img/takenoko.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/img/ticket_to_ride.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/alugames/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/amigo-secreto/assets/imagem-presente.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/amigo-secreto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/amigo-secreto/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/amigo-secreto/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/carrinho-compras/assets/arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/carrinho-compras/assets/carrinho-cinza.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/carrinho-compras/assets/grafismo-azul.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/carrinho-compras/assets/icone-carrinho.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/carrinho-compras/assets/oculos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/carrinho-compras/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/carrinho-compras/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/carrinho-compras/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/Ingresso.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/Logo-e-tricket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/PNG/Arrow down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/PNG/Grafismo verde.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/PNG/Imagem com borda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/PNG/Imagem sem borda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/PNG/Ingresso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/PNG/Logo e-tricket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/SVG/Arrow down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/SVG/Grafismo verde.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/SVG/Hachuras.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/SVG/Ingresso.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/SVG/Logo e-tricket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/assets/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/styles/_reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/ingresso/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/sorteador-numeros/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/sorteador-numeros/img/Ruido.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/sorteador-numeros/img/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/sorteador-numeros/img/ia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/sorteador-numeros/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3411-praticando-logica-projeto_inicial/sorteador-numeros/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_css/Page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_css/Page/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_css/ex1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_css/ex2/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_css/ex2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_css/ex3/Imagem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_css/ex3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../img/leonardo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/.idea/Perfil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/out/production/Perfil/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/out/production/Perfil/.idea/Perfil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/out/production/Perfil/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/out/production/Perfil/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/out/production/Perfil/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/out/production/Perfil/Perfil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/out/production/Perfil/Soma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perfil/out/production/Perfil/Subtração.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/img/JS Game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/img/JS Game_files/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/img/JS Game_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/img/Ruido.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/img/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/img/ia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-curso-2-aula_-/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/img/JS Game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/img/JS Game_files/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/img/JS Game_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/img/Ruido.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/img/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/img/robot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/img/trophy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +140,30 @@
       <option name="presentableId" value="Default" />
       <updated>1719435815282</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercitando polimorfismo e herança">
+      <option name="closed" value="true" />
+      <created>1719437189144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719437189144</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercitando polimorfismo e herança" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercitando polimorfismo e herança" />
   </component>
 </project>
